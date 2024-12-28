@@ -1,4 +1,3 @@
-# toolScrapingFB-local
 # Hướng dẫn chi tiết:
 ## Bước 1: 
 - Tải source code về máy.
